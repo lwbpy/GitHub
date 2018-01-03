@@ -1,0 +1,15 @@
+net start mysql57
+mysql -u root -p（输入密码272631）
+
+
+
+create database kaishen；   创建数据库kaishen
+
+
+
+use kaishen；
+
+show tables；
+
+
+用户名：root
